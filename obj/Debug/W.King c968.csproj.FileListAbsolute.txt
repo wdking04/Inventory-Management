@@ -1,0 +1,13 @@
+C:\Users\wdkin\source\repos\W.King c968\obj\Debug\W.King c968.csprojAssemblyReference.cache
+C:\Users\wdkin\source\repos\W.King c968\obj\Debug\W.King_c968.AddPartScreen.resources
+C:\Users\wdkin\source\repos\W.King c968\obj\Debug\W.King_c968.AddProductScreen.resources
+C:\Users\wdkin\source\repos\W.King c968\obj\Debug\W.King_c968.MainScreen.resources
+C:\Users\wdkin\source\repos\W.King c968\obj\Debug\W.King_c968.ModifyPartScreen.resources
+C:\Users\wdkin\source\repos\W.King c968\obj\Debug\W.King_c968.ModifyProductScreen.resources
+C:\Users\wdkin\source\repos\W.King c968\obj\Debug\W.King_c968.Properties.Resources.resources
+C:\Users\wdkin\source\repos\W.King c968\obj\Debug\W.King c968.csproj.GenerateResource.cache
+C:\Users\wdkin\source\repos\W.King c968\bin\Debug\W.King c968.exe.config
+C:\Users\wdkin\source\repos\W.King c968\bin\Debug\W.King c968.exe
+C:\Users\wdkin\source\repos\W.King c968\bin\Debug\W.King c968.pdb
+C:\Users\wdkin\source\repos\W.King c968\obj\Debug\W.King c968.exe
+C:\Users\wdkin\source\repos\W.King c968\obj\Debug\W.King c968.pdb
